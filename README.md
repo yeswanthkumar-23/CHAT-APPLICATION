@@ -4,7 +4,7 @@
 "COMPANY":CODETECH IT SOLUTIONS
 
 
-"NAME":Girijala LakshmiGuna Yashwanth kumar
+"NAME":Girijala Lakshmi Guna Yashwanth kumar
 
 
 "INTERN ID":CT08DF97
@@ -51,4 +51,9 @@ Gaming communication
 Overall, it’s a fast, scalable, and modern solution for real-time communication.
 
 "OUTPUT":
+<img width="1920" height="856" alt="Image" src="https://github.com/user-attachments/assets/97b82cca-c287-4f8b-a09a-b478c10d81bc" />
+
+<img width="1920" height="852" alt="Image" src="https://github.com/user-attachments/assets/461ace24-e20a-4991-9e72-cb60029c778b" />
+
+<img width="1920" height="856" alt="Image" src="https://github.com/user-attachments/assets/0bb5d30d-9a66-47ee-a50f-1521eb2fcc66" />
 
