@@ -51,7 +51,4 @@ Gaming communication
 Overall, it’s a fast, scalable, and modern solution for real-time communication.
 
 "OUTPUT":
-<img width="1920" height="630" alt="Image" src="https://github.com/user-attachments/assets/9138395c-0ade-4f74-8b3b-723e3849304c" />
-
-<img width="1920" height="902" alt="Image" src="https://github.com/user-attachments/assets/81367e15-15c6-4c2c-90d3-dbe797cea0c5" />
 
